@@ -13,6 +13,7 @@ Built 2026-08-16 by the 5-phase research system. All factual claims carry source
   - `stevens-florescu-yang-feinstein.md`
 - `phase4/outreach-drafts.md` — 10 email skeletons + 2 SOP paragraphs + rewrite checklist. Do not send before the prerequisites listed at the top of that file.
 - `phase5/phase5-plan.md` — master tracker (10 applications), calendar to Jan 31 2027, outreach sequence, gap analysis, honest portfolio assessment.
+- `statement-of-purpose/` - `statement-of-purpose.md` (working SOP draft; the faculty-fit paragraph targets Stevens and is swapped per school) plus `sop guidelines.md` (the ten-component SOP framework the draft follows). Faculty and paper references trace to the `phase3/` briefs and need live re-verification before submission.
 
 ## The three actions that matter most (from Phase 5)
 
