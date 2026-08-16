@@ -31,9 +31,10 @@ That is **10 applications** (9 firm + 1 conditional CMU Math).
 | Sept 1-7 | Warm email #8 Florescu; request letter commitments from all three letter writers (6+ weeks before Dec 1) |
 | Week of Sept 7 | Cold emails #1 Mastrolia, #2 Moallemi |
 | Week of Sept 14 | Cold emails #3 Capponi, #4 Pelger; warm #9 Yang |
-| Sept 15 | Stanford MS&E application opens (V); MIT EECS-pattern portals open ~now |
+| Sept 15 | MIT EECS-pattern portals open ~now |
 | Week of Sept 21 | Cold emails #5 Stellato, #6 Leung; warm #10 Feinstein |
 | Sept 24 | Berkeley portal opens (V) — start application |
+| Late Sept | Stanford MS&E application opens (V) — confirm exact date in the Sept 1-5 re-verification pass |
 | Late Sept/early Oct | GRE sitting; order score reports immediately (Stanford, Berkeley, Stevens, +Booth if kept) |
 | Week of Sept 28 | Email #7 Hoe (only after reading FPGA 2026 paper); follow-ups for week-of-Sept-7 emails (10-14 day rule, once, then stop) |
 | Early Oct | Order transcripts: Stevens, VIT, WorldQuant, Georgia Tech (in-progress), CMU (Tepper withdrawal — check if needed) |
