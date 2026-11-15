@@ -49,6 +49,8 @@ Strict caveat: Pelger is fundamentally an econometrician. His methodological pap
 
 # BRIEF 2: KAY GIESECKE (Stanford MS&E)
 
+> **SUPERSEDED 2026-11-14: Giesecke left Stanford on 2026-07-01 to head the "Artificial Intelligence & Quantitative Finance" group at the Hasso Plattner Institute (https://hpi.de/en/article/artificial-intelligence-in-finance-prof-dr-kay-giesecke-joins-hpi/). Do not name him in the Stanford application. Kept for reference only.**
+
 **Verified status (https://giesecke.people.stanford.edu/):** Professor, MS&E; Founder and Director, Advanced Financial Technologies Laboratory; Director of the Mathematical and Computational Finance Program; ICME member. Founded Infima Technologies 2020 (CEO, then Chief Scientist "upon his return to Stanford"; as Chairman led it through 2024 acquisition). Former Editor of Management Science, Finance Area, 2018-2025. Stated areas verbatim: "risk management, market surveillance, fair lending, and sustainable investing." Currently co-advises two students with Pelger (Adam Rebei, Jason Pan).
 
 ## 1. Current research line
@@ -127,7 +129,7 @@ Secondary: whether complete cross-learning survives **censored** feedback — in
 
 ## Cross-cutting notes
 
-- **Pelger-Giesecke are one ecosystem**: same AFT Lab, two co-advised students, shared student lineage (Epstein coauthors with both). Treat as a joint target; the realistic-execution/frictions angle serves both.
+- **(Superseded 2026-11-14: Giesecke left Stanford on 2026-07-01; treat Pelger as a standalone target.)** **Pelger-Giesecke are one ecosystem**: same AFT Lab, two co-advised students, shared student lineage (Epstein coauthors with both). Treat as a joint target; the realistic-execution/frictions angle serves both.
 - **The crypto-microstructure paper is not readable** — Work in Progress with no public draft. Do not claim to have read it; he may say he noticed it is in progress and ask about it.
 - **Verified placements (Pelger students page)**: Two Sigma, HRT, Citadel, Cubist, BlackRock — safe to reference.
 - SSRN blocks direct fetches; SSRN IDs extracted from Pelger's own site HTML.

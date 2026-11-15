@@ -16,18 +16,19 @@ Faculty names and placements were retrieved from live pages this session; source
 ## Master table — APPLY list
 
 Sorted by tier, then deadline. "Deadline" = Fall 2027 cycle where confirmed; otherwise prior-cycle pattern flagged (VERIFY).
+2026-11-14: for US programs this table is the August snapshot; `../reverification-2026-11/summary.md` supersedes it wherever they conflict.
 
 ### REACH
 
 | # | Program | Track | Deadline | GRE | Funding | Anchor faculty | Quant placement evidence |
 |---|---|---|---|---|---|---|---|
-| 1 | Stanford MS&E | T1 | **Dec 1, 2026 (F27 confirmed)** | Required | Fellowships/assistantships, no blanket guarantee found | Giesecke, Pelger, Blanchet | Two Sigma, Jump Operations (official page) |
+| 1 | Stanford MS&E | T1 | **Dec 1, 2026 (F27 confirmed)** | Required | Fellowships/assistantships, no blanket guarantee found | ~~Giesecke~~ **LEFT STANFORD 2026-07-01 (HPI Potsdam) - do not name**, Pelger, Blanchet | Two Sigma, Jump Operations (official page) |
 | 2 | MIT ORC | T1 | Dec 1 (annual — verify) | Optional | Model UNKNOWN; MIT RA rate $4,269/mo | Lo (finance bench thin) | Citadel QR, Two Sigma QR (2023, named) |
 | 3 | MIT EECS (Alizadeh) | T2 | Dec 1 (prior — verify) | Not required | Full (TA/RA/fellowship) | Alizadeh (low-latency networking), Sanchez | HRT target school (third-party) |
 | 4 | Chicago Booth, Econometrics & Stats | T1 | **Dec 15, 2026 (F27 confirmed; opens early Sept)** | Required, no exceptions | Fully funded cohort | Xiu, Russell, Budish | **Citadel, Citadel Sec, CTC, Point72, Squarepoint, Voleon (named QRs, official)** |
-| 5 | Columbia IEOR | T1 | Dec 15 (annual — verify) | Not req. 2026 (verify) | Full, 4+ years | **Capponi**, Zhou, Hirsa, Iyengar (+Moallemi via separate CBS DRO app) | UNKNOWN |
+| 5 | Columbia IEOR | T1 | Dec 15 (annual - verify) | Optional for 2027 cycle (confirmed 2026-11-14) | Full, 4+ years | **Capponi**, Zhou, Hirsa, Iyengar (+Moallemi via separate CBS DRO app) | UNKNOWN |
 | 6 | UC Berkeley IEOR | T1 | **Dec 15, 2026 (F27 confirmed; opens Sept 24)** | Required (no waiver for him) | UNKNOWN | **Mastrolia**, Guo, Zheng | Two Sigma QR, Aquatic QR (named, official) |
-| 7 | Princeton ORFE | T1 | Dec 30 (prior — verify; opens Sept) | Optional (F26 — verify) | Full, ~$40k+ stipend | Sircar, Soner, Tangpi, Hubert, Fan | UNKNOWN (placement page bot-blocked — check manually) |
+| 7 | Princeton ORFE | T1 | ~~Dec 30 (prior - verify; opens Sept)~~ **Dec 21, 2026, 11:59 pm ET (confirmed 2026-11-14)** | Optional (Fall 2027 confirmed 2026-11-14) | Full, ~$40k+ stipend | Sircar, Soner, Tangpi, ~~Hubert~~ (left Princeton Sept 2025 - do not name), Fan | UNKNOWN (placement page bot-blocked - check manually) |
 | 8 | Oxford Maths DPhil + Random Systems CDT | T1 | ~Jan 8 funding deadline (prior — verify); CDT opens for 2027-28 | Not required (UK norm) | Clarendon (fee-blind) + fully funded CDT | **Cartea** (Oxford-Man dir.), Hambly, Reisinger, Cont | DPhil alum → Citadel Securities QD (named) |
 | 9 | EPFL / Swiss Finance Institute (EDFI) | T1 | Jan 15 / Mar 31 (prior — verify) | GRE required | Funded (fellowship/assistantship) | Malamud (ML asset pricing), Collin-Dufresne | Academic-heavy; quant UNKNOWN |
 | 10 | ETH Zurich D-MATH (IMSF) | T1 | Rolling, supervisor-first | Not mentioned | Salaried ~CHF 4.4-4.9k/mo (verify) | **Teichmann** (ML in finance), Possamaï | UNKNOWN |
@@ -106,15 +107,17 @@ Sorted by tier, then deadline. "Deadline" = Fall 2027 cycle where confirmed; oth
 
 When Fall 2027 pages publish (late Aug - Oct), re-verify in one pass:
 
-- [ ] Princeton ORFE: deadline + GRE policy + placement page (manual browser — site bot-blocked)
-- [ ] Columbia IEOR: deadline + GRE 2027 policy + stipend (manual browser — site bot-blocked)
+US items run on 2026-11-14 (results and corrections in `../reverification-2026-11/summary.md`); non-US items left open because scope narrowed to US-only. Key corrections: Princeton ORFE is Dec 21 (not Dec 30); CMU Math has no year on its Dec 20 date; Stanford "opens late Sept" text unchanged, deadline Dec 1, 2026 confirmed.
+
+- [~] Princeton ORFE: deadline + GRE policy + placement page (manual browser - site bot-blocked) - deadline (Dec 21) and GRE done; placement page NOT checked
+- [~] Columbia IEOR: deadline + GRE 2027 policy + stipend (manual browser - site bot-blocked) - deadline (Dec 15, PRIOR CYCLE - VERIFY [INFERRED - year not printed beside the date; cycle inferred from same-page 2027 GRE text]) and GRE done; department stipend not published (university floor only)
 - [ ] Cornell ORIE: Jan 5, 2027 confirmed; Stoikov committee-chairing rules
-- [ ] MIT ORC: Dec 1, 2026 confirmed; ORC funding model
-- [ ] CMU Math: Dec 20, 2026 confirmed; GRE policy
+- [~] MIT ORC: Dec 1, 2026 confirmed; ORC funding model - Dec 1, 11:59 pm ET confirmed, year not printed (PRIOR CYCLE - VERIFY); funding model confirmed (full support); stipend amount UNKNOWN
+- [~] CMU Math: Dec 20, 2026 confirmed; GRE policy - Dec 20 listed with no year (PRIOR CYCLE - VERIFY); GRE done; English test required with no exceptions
 - [ ] Booth: portal opens early Sept — open application, confirm Dec 15
-- [ ] Berkeley IEOR: portal opens Sept 24 — confirmed current
-- [ ] Stanford MS&E: opens late Sept — confirmed current (Dec 1)
-- [ ] UW CFRM: confirmed current (Dec 1 priority)
+- [x] Berkeley IEOR: portal opens Sept 24 - confirmed current
+- [x] Stanford MS&E: opens late Sept - confirmed current (Dec 1)
+- [x] UW CFRM: confirmed current (Dec 1 priority)
 - [ ] Oxford: 2027-28 DPhil deadlines + Random Systems CDT opening (register for CDT notification now)
 - [ ] Imperial Maths: 2027 funding-round calendar
 - [ ] LSE: 2027 funding deadline (~Jan 14)
