@@ -1,7 +1,7 @@
 # Re-verification: CMU ECE, CMU Math, Princeton ORFE, Stevens FE - retrieved 2026-11-14
 
 All claims below were retrieved on 2026-11-14 via WebFetch, WebSearch, or a live Chrome session.
-Tags: [VERIFIED - url] = read on that page this session; [INFERRED - reasoning]; UNKNOWN; PRIOR CYCLE - VERIFY = page still shows the Fall 2026 cycle or gives no year.
+Tags: [VERIFIED - url] = read on that page this session; [SEARCH SNIPPET - url] = seen only in a WebSearch result summary, not opened; [INFERRED - reasoning]; UNKNOWN; PRIOR CYCLE - VERIFY = page still shows the Fall 2026 cycle or gives no year.
 
 ## Summary
 
@@ -47,7 +47,7 @@ Tags: [VERIFIED - url] = read on that page this session; [INFERRED - reasoning];
 
 ### Naming faculty
 - No official ECE admissions page retrieved this session asks applicants to name faculty or recommends naming 2-3. [VERIFIED - https://www.ece.cmu.edu/admissions/graduate-faq.html]
-- A CMU ECE faculty member's personal tips page advises mentioning specific professors whose interests match. [VERIFIED - https://users.ece.cmu.edu/~mabdelm/statement-of-purpose-tips.html (WebSearch result; personal page, not official policy)]
+- A CMU ECE faculty member's personal tips page advises mentioning specific professors whose interests match. [SEARCH SNIPPET - https://users.ece.cmu.edu/~mabdelm/statement-of-purpose-tips.html] (personal page, not official policy)
 - The prior claim "recommends naming 2-3 faculty in SOP" is UNKNOWN as official policy; it may be a portal field visible only after login.
 
 ### Funding

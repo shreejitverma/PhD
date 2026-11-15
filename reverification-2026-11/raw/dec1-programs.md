@@ -37,7 +37,7 @@ Tags: [VERIFIED - url] = read on the page; [SEARCH SNIPPET - url] = seen only in
 - Fee is $125, nonrefundable [VERIFIED - https://msande.stanford.edu/academics-admissions/admissions/how-apply] and [VERIFIED - https://gradadmissions.stanford.edu/apply/faq].
 - School of Engineering: "International students applying to doctoral programs will be reviewed on a case-by-case basis." [VERIFIED - https://gradadmissions.stanford.edu/apply/application-fee/school-based-waivers].
 - Waiver request must be complete 10 business days (two weeks) before the program deadline [VERIFIED - https://gradadmissions.stanford.edu/apply/application-fee/school-based-waivers].
-- For a Dec 1, 2026 deadline this is about Tuesday Nov 17, 2026, possibly earlier if Stanford excludes Thanksgiving closure days [INFERRED - counting 10 weekdays back from Dec 1].
+- For a Dec 1, 2026 deadline this is about Tuesday Nov 17, 2026, or Friday Nov 13, 2026 (already passed on 2026-11-14) if Stanford excludes the Thu-Fri Nov 26-27 Thanksgiving closure days [INFERRED - counting 10 weekdays back from Dec 1].
 - The GRE-based fee waiver is limited to US citizens and permanent residents [SEARCH SNIPPET - https://gap.stanford.edu/handbooks/gap-handbook/chapter-2/subchapter-1/page-2-1-1].
 
 ### Letters, statements, faculty

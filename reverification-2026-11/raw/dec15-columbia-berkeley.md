@@ -1,4 +1,5 @@
 Retrieved 2026-11-14 (live re-verification of the Dec 15 cluster: Columbia IEOR, CBS DRO, Berkeley IEOR).
+Tags: [VERIFIED - url] = read on that page this session; [SEARCH SNIPPET - url] = seen only in a WebSearch result summary, not opened; [INFERRED - reasoning]; UNKNOWN.
 
 ## Summary
 
@@ -65,7 +66,7 @@ Note: Columbia IEOR PhD applies through the Columbia Engineering (SEAS) graduate
 - CBS application portal, PhD program: "Entering in August 2027 ... Application Opens September 1, 2026 Deadline December 15, 2026 noon ET Application Closes December 15, 2026 noon ET". [VERIFIED - https://admissions.business.columbia.edu/portal/programs (PhD "Application Details" panel)]
 - Cycle explicitly confirmed (August 2027 entry). [VERIFIED - same URL]
 - The deadline is noon ET, not end of day; there is no grace window (close = deadline). [VERIFIED - same URL]
-- A WebSearch snippet for https://academics.business.columbia.edu/phd/dro/admissions mentioned "2027 deadlines have passed"; that URL now redirects to the general PhD admissions page, which shows no such text. Treat the snippet as stale template text. [INFERRED - redirect observed in browser on 2026-11-14; portal shows the deadline as upcoming]
+- A WebSearch snippet mentioned "2027 deadlines have passed" [SEARCH SNIPPET - https://academics.business.columbia.edu/phd/dro/admissions]; that URL now redirects to the general PhD admissions page, which shows no such text. Treat the snippet as stale template text. [INFERRED - redirect observed in browser on 2026-11-14; portal shows the deadline as upcoming]
 
 ### GRE / GMAT
 - "Note: GRE/GMAT scores are OPTIONAL for DRO PhD applicants". [VERIFIED - https://academics.business.columbia.edu/admissions/phd/application-requirements]
@@ -150,7 +151,7 @@ Note: Columbia IEOR PhD applies through the Columbia Engineering (SEAS) graduate
 - bulletin.columbia.edu: WebFetch failed with "certificate rejected"; retrieved via curl.
 - studentbenefits.columbia.edu: 403 to WebFetch; read via browser.
 - https://ieor.columbia.edu/phd-admissions: does not exist ("We couldn't find that page"); the PhD admissions FAQ lives at https://ieor.columbia.edu/content/phd-admissions-faqs.
-- https://ieor.columbia.edu/graduate-programs-timelines: 403 via WebFetch, not re-tried in browser (search snippet suggests MS-only dates).
+- https://ieor.columbia.edu/graduate-programs-timelines: 403 via WebFetch, not re-tried in browser; a search snippet suggests MS-only dates [SEARCH SNIPPET - https://ieor.columbia.edu/graduate-programs-timelines].
 - https://academics.business.columbia.edu/phd/tuition-and-financial-aid and https://academics.business.columbia.edu/admissions/phd/events: broken (site "page may have been moved" notice).
 - Columbia SEAS deadline time of day / time zone: not stated anywhere retrieved.
 - Columbia IEOR and CBS DRO stipend amounts: not published; only the university-wide 2026-27 floor was found.
