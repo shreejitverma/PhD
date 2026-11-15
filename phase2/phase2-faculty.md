@@ -13,7 +13,7 @@ Research date: 2026-08-16. Full per-professor detail with all source URLs in `ra
 | 5 | Ciamac Moallemi | Columbia CBS DRO (separate app) | 5 | AMM design, routing sub-optimality, prediction markets; canonical latency-cost literature; public email | STRONG (school/lab) | Public email, no do-not-email; low advisee throughput — lottery |
 | 6 | Ionut Florescu | Stevens FE | 5 | SHIFT HFT simulator; existing thesis relationship; hardware-latency tier for SHIFT is a ready-made project | MIXED (industry money) | Warm re-engagement, pre-application funding conversation |
 | 7 | Negin Golrezaei | MIT ORC | 4 | Learning-to-bid under budget constraints = abstraction of AMM hot-path work; students → Citadel QR, Two Sigma QR | STRONG | DO NOT EMAIL — "list my name in your application" (her words) |
-| 8 | Kay Giesecke | Stanford MS&E | 4 | AFTLab; builder-friendly culture (patents/software); post-startup, co-advising with Pelger | MIXED | Pair with Pelger in application |
+| 8 | ~~Kay Giesecke~~ **LEFT STANFORD 2026-07-01 (HPI Potsdam) - do not name; see ../reverification-2026-11/summary.md** | Stanford MS&E | 4 | AFTLab; builder-friendly culture (patents/software); post-startup, co-advising with Pelger | MIXED | Pair with Pelger in application |
 | 9 | Tim Leung | UW AMath/CFRM | 4 | Moving into joint LOB data (0DTE paper); optimal-stopping trading strategies; strong industry placements (Columbia era) | MIXED | Email defensible; advisor matched post-arrival at UW |
 | 10 | Steve Yang | Stevens FE | 4 | CRAFT director; NSF $1.03M to 12/2027; the funding channel at Stevens; BofA is a CRAFT member | STRONG | Warm conversation alongside Florescu |
 | 11 | Zachary Feinstein | Stevens FE | 4 | AMM/DeFi design; Aug 2026 joint AMM paper with Florescu; PhD-programs co-director | WEAK on grants | Via Florescu relationship |
@@ -25,7 +25,7 @@ Near-misses worth naming in applications as secondaries: Wenpin Tang (Columbia, 
 
 | Program | Verdict | Basis |
 |---|---|---|
-| Stanford MS&E | APPLY — priority 1 | Pelger (5) + Giesecke (4) co-advising cluster; QuantFin specialization with "Algorithmic trading"/"Optimal order execution" dissertation precedent; GRE required |
+| Stanford MS&E | APPLY - priority 1 | Pelger (5) anchor (Giesecke departed Jul 2026 - co-advising cluster gone; Blanchet 3 / Glynn 3 secondary); QuantFin specialization with "Algorithmic trading"/"Optimal order execution" dissertation precedent; GRE required |
 | Columbia IEOR | APPLY — priority 1 | Capponi (5) + three credible 3-level alternates (Tang, Zhou, Iyengar) = advisor redundancy |
 | Berkeley IEOR | APPLY — priority 1 | Mastrolia (5); app explicitly asks for faculty names; GRE required; funding via fellowship/GSI (he has no NSF) |
 | Princeton ORFE | APPLY — repositioned | Stellato (5) anchor with real-time-systems framing, Sircar secondary; Hubert departed; measure-theory prep must be addressed |
@@ -41,6 +41,7 @@ Near-misses worth naming in applications as secondaries: Wenpin Tang (Columbia, 
 | Cornell ORIE | DROP | Stoikov has no committee rights + pivoted topics; Minca (3) no verified active funding; no FE concentration |
 
 ## Status corrections found in Phase 2 (would have burned outreach)
+- 2026-11-14 re-check: Kay Giesecke left Stanford for the Hasso Plattner Institute on 2026-07-01; the August pass missed it (source: ../reverification-2026-11/raw/faculty-status.md).
 - Emma Hubert left Princeton (Sept 2025 → CEREMADE, Paris Dauphine-PSL). Do not name at Princeton.
 - Stoikov (Cornell): Senior Research Associate, NOT graduate field faculty — cannot chair/sit on committees; recent output is music recommendation.
 - Farrell and Kolar have left Booth (UCSB, USC Marshall); Booth area marketing page is stale.

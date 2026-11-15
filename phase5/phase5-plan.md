@@ -1,52 +1,49 @@
-# Phase 5 — Application Operations Plan (US programs, Fall 2027)
+# Phase 5 - Application Operations Plan (US programs, Fall 2027)
 
-Compiled 2026-08-16 from Phases 1-4. Deadlines marked (V) were verified as current-cycle; all others are prior-cycle patterns — re-verify in September (checklist in `../phase1/phase1-programs.md`).
+Compiled 2026-08-16 from Phases 1-4; tracker and calendar re-verified 2026-11-14 (sources in `../reverification-2026-11/`).
+Deadlines marked (V) were confirmed on the official page for the Fall 2027 cycle on 2026-11-14; (V-year inferred) means the date and time were on the page but the year was not; PRIOR CYCLE - VERIFY means the page still shows Fall 2026.
+Outreach, Reply and Status columns are UNKNOWN - this repo has no record of what was sent or done after 2026-08-16; fill them in.
 
 ## A. Master tracker
 
 | Program | Track | Deadline | Portal | GRE | Fee | Letters | Named faculty (top 3) | Funding outlook | Tier | Outreach sent | Reply | Status | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Stanford MS&E | T1 | **Dec 1, 2026 (V)** | via msande.stanford.edu/phd-admission; opens late Sept | **Required** | $125 | 3 | Pelger, Giesecke, Blanchet | Dept norm + Pelger group STRONG | REACH | — | — | Not started | Rank QuantFin 1st, OR 2nd. Email #4 |
-| MIT ORC | T1 | Dec 1, 2026 | oge.mit.edu; video essay | Optional | $90 | 3 | **Golrezaei (required naming)**, Lo, +1 backup | Sloan 5-yr norm | REACH | NO EMAIL — SOP names her | — | Not started | SOO must name faculty (required) |
-| Columbia IEOR | T1 | Dec 15, 2026 | via GSAS | Not req. 2026 (verify) | TBD | 3 | Capponi, W. Tang, Zhou/Iyengar | Full 4+ yrs | REACH | Email #3 wk Sept 14 | — | Not started | Tang = best funding runway (CAREER to 2031) |
-| Berkeley IEOR | T1 | **Dec 15, 2026 (V)**; opens Sept 24 | gradapp.berkeley.edu | **Required** | TBD | 3 | Mastrolia, Guo, Zheng | Mastrolia no NSF — fellowship/GSI | REACH | Email #1 wk Sept 7 | — | Not started | App asks for faculty names |
-| CMU ECE | T2 | Dec 15 (prior — verify) | ece.cmu.edu | Optional (F26 — verify) | $75 | 3 | Hoe, Sriraman | Sriraman CAREER to 2029; Hoe none | REACH | Email #7 wk Sept 28 (conditional) | — | Not started | Only Track 2 app. Read FPGA 2026 paper first |
-| Columbia CBS DRO | T1 | ~Dec (verify — separate CBS portal) | apply.gsb.columbia.edu | GMAT/GRE required (verify) | TBD | 3 | Moallemi, Glasserman | School-funded STRONG | REACH (lottery) | Email #2 wk Sept 7 | — | Not started | Tiny cohort; Moallemi low advisee throughput |
-| Princeton ORFE | T1 | Dec 30 (prior — verify); opens Sept | gradschool.princeton.edu | Optional (F26 — verify) | TBD | 3 | Stellato, Sircar, Altschuler/Fan | Full, ~$40k+ | REACH | Email #5 wk Sept 21 | — | Not started | Hubert GONE. Measure-theory prep in SOP |
-| UW Applied Math (CFRM) | T1 | **Dec 1 priority / Jan 12 final (V)** | grad.uw.edu | Optional | TBD | 3 | Leung, Lorig | Dept 5-yr; no PI grants | TARGET | Email #6 wk Sept 21 (weak-funding variant) | — | Not started | Advisor matched post-arrival |
-| CMU Math Sciences | T1 | Dec 20 (prior — verify) | via cmu.edu/math | Math Subject GRE "recommended" | TBD | 3 | Larsson, Nadtochiy | Larsson NSF to 2028 | TARGET (conditional) | Inquiry to Larsson (designated contact) — optional | — | CONDITIONAL | Only with measure-theory evidence; else cut |
-| Stevens FE | BOTH | Jan 15 (prior — verify); rolling | stevens.edu | **Required** | TBD | 3 | Florescu, Yang, Feinstein | Selective — NEGOTIATE | LIKELY | Emails #8-10 early-late Sept | — | Not started | Provost Fellowship box by Mar 1; multi-year RA plan before accepting |
+| Stanford MS&E | T1 | **Dec 1, 2026, 11:59 pm PT (V)** | msande.stanford.edu PhD admission page | **Required** | $125 | 3 (due 1 wk after deadline) | Pelger, Blanchet, Glynn | Dept norm; Pelger group STRONG but 13 current students | REACH | Email #4 planned wk Sept 14 - UNKNOWN | UNKNOWN | UNKNOWN | **Giesecke LEFT (HPI, Jul 2026) - removed.** Statement max 2 pages. Rank QuantFin 1st, OR 2nd |
+| MIT ORC | T1 | **Dec 1, 11:59 pm ET (V-year inferred)** | MIT apply portal; video essay | Optional | $90 | 3 | **Golrezaei (required naming)**, Lo, +1 backup | Sloan 5-yr norm | REACH | NO EMAIL - SOO names her | - | UNKNOWN | SOO 2 pages, must name ORC faculty. File English-proficiency waiver form now. Video interviews in Feb |
+| UW AMath (Mathematical Finance) | T1 | **Dec 1, 2026 priority / Jan 12, 2027 final (V)** | grad.uw.edu | Optional | $90 | 3 | Leung, Lorig, Martin | Dept 5-yr; no PI grants | TARGET | Email #6 planned wk Sept 21 - UNKNOWN | UNKNOWN | UNKNOWN | No "CFRM" PhD area exists - name the "Mathematical Finance" area. New PhD curriculum from Sept 2026 |
+| Columbia IEOR | T1 | **Dec 15, 2026 (V)**; no time stated - submit Dec 14 | Columbia Engineering (SEAS) portal, not GSAS | Optional (V) | $85 | 3 | Capponi, W. Tang, Zhou/Iyengar | University floor $50,008/12 mo (2026-27) | REACH | Email #3 planned wk Sept 14 - UNKNOWN | UNKNOWN | UNKNOWN | One SEAS application per term. Tang now Assoc Prof (CAREER to 2031) |
+| Columbia CBS DRO | T1 | **Dec 15, 2026, NOON ET (V)** - submit Dec 14 | CBS PhD portal | **Optional for DRO (V)** | $100 | 2 required, up to 4 | Moallemi, Glasserman | School-funded STRONG | REACH (lottery) | Email #2 planned wk Sept 7 - UNKNOWN | UNKNOWN | UNKNOWN | Essay under 1,000 words; upload up to 2 research papers (the preprint belongs here) |
+| Berkeley IEOR | T1 | **Dec 15, 2026, 8:59 pm PT (V)** | gradapp.berkeley.edu | **Required** | $155 + 4.22% | 3 | Mastrolia, Guo, Zheng | Mastrolia no NSF - fellowship/GSI | REACH | Email #1 planned wk Sept 7 - UNKNOWN | UNKNOWN | UNKNOWN | GRE must be received AND verified by Dec 15 (5-15 days) - send to code 4833 by ~Nov 25. Faculty naming is an optional SOP prompt |
+| CMU ECE | T2 | **Dec 15, 11:59 pm ET; early review Dec 1 (V-year inferred)** | ece.cmu.edu | Optional for Fall 2027 (V) | $75 | 3 | Hoe, Sriraman | Sriraman CAREER to 2029; Hoe none | REACH | Email #7 planned wk Sept 28 (conditional) - UNKNOWN | UNKNOWN | UNKNOWN | Only Track 2 app. Target Dec 1 early review. Substantial AI use in statement may mean automatic denial |
+| Princeton ORFE | T1 | **Dec 21, 2026, 11:59 pm ET (V) - moved from Dec 30** | gradschool.princeton.edu | Optional (V) | $90 (waivers; request by Dec 17) | 3 (max) | Stellato, Sircar, Altschuler/Fan | Full, ~$40k+ | REACH | Email #5 planned wk Sept 21 - UNKNOWN | UNKNOWN | UNKNOWN | SOP max 1,000 words. English exemption needs school-certified 2 yrs English-taught graduate study. Stellato took 2 students Sept 2026 |
+| CMU Math Sciences | T1 | Dec 20 (no year on page) | cmu.edu/math | General not collected; Math Subject recommended | None | 3+ | Larsson, Nadtochiy | Larsson NSF to 2028; stipend $3,000/mo x 9 (2026-27) | TARGET (conditional) | Inquiry to Larsson - optional | - | CONDITIONAL | **English test required even with US degrees, no exceptions.** Cut unless a valid score AND measure-theory evidence exist |
+| Stevens FE | BOTH | Jan 15 priority - PRIOR CYCLE - VERIFY (page shows Fall 2026 only) | stevens.edu | **GRE or GMAT required** | $60 | 3 | Florescu, Yang, Feinstein | Selective - NEGOTIATE | LIKELY | Emails #8-10 planned Sept - UNKNOWN | UNKNOWN | UNKNOWN | Provost Fellowship box by Mar 1 (V, 2026-27 values). SOP length rules conflict - ask the program |
 
-Cut from the portal list (Phase 2 verdicts): Cornell ORIE (no committee-rights advisor), Chicago Booth E&S (max fit 3, theorem-prover profile), NYU Tandon ECE/FRE (mechanics favorable, agenda match absent — revisit only if the list feels thin), MIT EECS (marginal without a publication), CMU CSD/Sherry (highest bar, lowest EV).
+Cut from the portal list (Phase 2 verdicts): Cornell ORIE (no committee-rights advisor), Chicago Booth E&S (max fit 3, theorem-prover profile), NYU Tandon ECE/FRE (mechanics favorable, agenda match absent - revisit only if the list feels thin), MIT EECS (marginal without a publication), CMU CSD/Sherry (highest bar, lowest EV).
+NYU Tandon contingency facts (2026-11-14): deadline Dec 1, 2026; there is no separate FE PhD application - apply to the ECE PhD and name FRE mentors; $90; GRE policy conflicts between official pages; English waiver must be requested (exemption covers US bachelor's only).
 
 That is **10 applications** (9 firm + 1 conditional CMU Math).
 
-## B. Calendar — now through Jan 31, 2027
+## B. Calendar - from 2026-11-14 through Jan 31, 2027 (revised)
+
+The Aug-Oct items from the original calendar (arXiv preprint, GRE sitting, outreach emails, transcripts, letter commitments) have no recorded outcome in this repo; confirm each before relying on it.
 
 | Date | Action |
 |---|---|
-| Aug-Sept 2026 | **arXiv preprint of the thesis** — the single highest-impact item; blocks optimal outreach until done |
-| Late Aug 2026 | Book GRE seat for late Sept/early Oct (required: Stanford, Berkeley, Booth-if-kept, Stevens; target Q168+) |
-| Sept 1-5 | September re-verification pass (Phase 1 checklist); pull Fall 2027 deadlines as pages publish |
-| Sept 1-7 | Warm email #8 Florescu; request letter commitments from all three letter writers (6+ weeks before Dec 1) |
-| Week of Sept 7 | Cold emails #1 Mastrolia, #2 Moallemi |
-| Week of Sept 14 | Cold emails #3 Capponi, #4 Pelger; warm #9 Yang |
-| Sept 15 | MIT EECS-pattern portals open ~now |
-| Week of Sept 21 | Cold emails #5 Stellato, #6 Leung; warm #10 Feinstein |
-| Sept 24 | Berkeley portal opens (V) — start application |
-| Late Sept | Stanford MS&E application opens (V) — confirm exact date in the Sept 1-5 re-verification pass |
-| Late Sept/early Oct | GRE sitting; order score reports immediately (Stanford, Berkeley, Stevens, +Booth if kept) |
-| Week of Sept 28 | Email #7 Hoe (only after reading FPGA 2026 paper); follow-ups for week-of-Sept-7 emails (10-14 day rule, once, then stop) |
-| Early Oct | Order transcripts: Stevens, VIT, WorldQuant, Georgia Tech (in-progress), CMU (Tepper withdrawal — check if needed) |
-| Mid Oct | Follow-ups for mid/late-Sept emails; freeze faculty-name lists per program based on replies |
-| Oct 15-Nov 15 | Write SOPs: Stanford + MIT ORC first (Dec 1), then Columbia/Berkeley/CMU (Dec 15), Princeton (Dec 30), UW (Dec 1 priority) |
-| Nov 1 | Letter-writer reminder #1 with program list + deadlines |
-| Nov 15 | All Dec-1 applications complete except final polish |
-| **Dec 1, 2026** | **SUBMIT: Stanford MS&E, MIT ORC, UW (priority)** |
-| Dec 8 | Letter-writer reminder #2 for Dec 15 programs |
-| **Dec 15, 2026** | **SUBMIT: Columbia IEOR, Berkeley IEOR, CMU ECE, CBS DRO (verify exact CBS date)** |
-| **Dec 20, 2026** | **SUBMIT: CMU Math (if kept)** |
-| **Dec 30, 2026** | **SUBMIT: Princeton ORFE** |
+| Nov 14-17 | Stanford fee-waiver request if wanted (10 business days before Dec 1); MIT ORC English-waiver form; final CMU Math keep/cut decision |
+| Nov 18 | MIT fee-waiver deadline (international eligibility very narrow - budget $90) |
+| By Nov 20 | Rewrite every SOP in your own words; cut the base draft (currently ~1,130 words) under 1,000 for Princeton and CBS; Stanford/MIT under 2 pages |
+| By Nov 25 | Official GRE scores to Berkeley (4833) and Stevens; confirm Stanford scores sent |
+| Nov 26 | Thanksgiving - US offices closed; do not plan submissions or waiver requests around it |
+| **Dec 1, 2026** | **SUBMIT: Stanford MS&E (11:59 pm PT), MIT ORC (11:59 pm ET), UW priority; CMU ECE early-review target** |
+| Dec 1-8 | Letter-writer reminder #2 for Dec 15 and Dec 21 programs |
+| Dec 3 | Princeton ORFE graduate-student Zoom Q&A, 6-7 pm ET (optional) |
+| **Dec 14, 2026** | **SUBMIT: Columbia IEOR (no time stated), CBS DRO (hard close noon ET Dec 15)** |
+| **Dec 15, 2026** | **SUBMIT: Berkeley IEOR (8:59 pm PT), CMU ECE (11:59 pm ET)** |
+| Dec 17 | Princeton fee-waiver request deadline (if applying for one) |
+| Dec 20, 2026 | SUBMIT: CMU Math (only if kept) |
+| **Dec 21, 2026** | **SUBMIT: Princeton ORFE (11:59 pm ET)** |
+| Early Jan 2027 | Re-check Stevens Fall 2027 deadline once the page updates |
 | Jan 12, 2027 | UW final deadline (backstop if priority missed) |
 | **Jan 15, 2027** | **SUBMIT: Stevens FE** (indicate Provost Fellowship interest; box deadline Mar 1) |
 | Jan 2027 | No new outreach (deadline crush); respond to any faculty replies within 24h |

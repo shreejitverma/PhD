@@ -89,7 +89,7 @@ CV attached.
 
 Shreejit Verma
 
-*(~160 words. Giesecke is handled in the Stanford SOP, not a separate email — they co-advise; one well-aimed email to the pair's active thread is enough.)*
+*(~160 words. 2026-11-14: Giesecke has left Stanford, so this email is to Pelger alone; drop any reference to a Pelger-Giesecke pair.)*
 
 ### 5. Bartolomeo Stellato (Princeton ORFE) — week of Sept 21
 
@@ -215,6 +215,8 @@ Shreejit
 "At BNP Paribas I ran automated quoting in a dealer market — operationally the bandit-feedback version of the budgeted pay-as-bid bidding Professor Golrezaei studies: price ladders across size tiers, wins and losses against competing dealers whose quotes are never observed, funding costs, balance-sheet limits. Her AISTATS 2026 paper with Sourav Sahoo assumes a monotonically depleting budget; the dealer version has a replenishable inventory that enters the objective through risk rather than feasibility, and loss feedback is censored — a one-sided bound on the best competing quote — which challenges the complete cross-learning construction. I want to work with Professor Golrezaei on extensions of this kind, and on the empirical validation against real auction data that her paper names as an open direction, where my systems background lets me build what the theory needs tested."
 
 ### Giesecke — one paragraph inside the Stanford SOP (alongside the Pelger paragraph)
+
+**DO NOT USE (2026-11-14): Giesecke left Stanford on 2026-07-01 (HPI Potsdam). Replace with a paragraph on a current MS&E secondary (Blanchet or Glynn) only after reading their current work.**
 
 "Professor Giesecke's Set-Sequence model buys linear scaling in the cross-section through mean pooling, which implicitly treats units as exchangeable — while his concurrent work with Tu develops conformal prediction precisely for non-exchangeable panels. That tension, between computational scaling and dependence structure, is the kind of systems-statistics tradeoff I want to work on, and the lab's builder culture — exact simulation, code, patents — is where a production C++/CUDA background contributes from day one."
 
