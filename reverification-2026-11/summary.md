@@ -47,11 +47,13 @@ The Giesecke departure was independently re-fetched from the HPI article during 
 | Princeton ORFE | **Dec 21, 2026, 11:59 pm ET** | Yes | Optional (general and subject) | $90 (waivers exist) | 3 (max) | 1,000 words | Exempt with 2 full-time years of English-taught graduate study or an English-medium bachelor's, either certified by the institution |
 | CMU Math (conditional) | Dec 20 (no year or time zone) | No - PRIOR CYCLE - VERIFY | General not collected; Math Subject recommended | None | 3+ | UNKNOWN | **Required, no exceptions** |
 | Stevens FE | Jan 15 priority (Fall 2026 page only) | No - PRIOR CYCLE - VERIFY | GRE or GMAT required | $60 | 3 | Conflicting | See raw |
-| NYU Tandon ECE/FRE (contingency) | Dec 1, 2026 | Partly | Conflicting pages | $90 | 2 forms | - | Waiver request needed (exemption covers US bachelor's only) |
+| NYU Tandon ECE/FRE (contingency) | Dec 1 | Partly - PRIOR CYCLE - VERIFY [INFERRED - ECE and Tandon-wide pages print no year; Dec 1, 2026 comes from the CBE department page] | Conflicting pages | $90 | 2 forms | - | Waiver request needed (exemption covers US bachelor's only) |
 
 ## Faculty status
 
-All 11 remaining Fit >= 4 professors and all secondary names are active at their institutions; none has a posted 2027-28 leave, emeritus status, or "not taking students" note (absence is weak evidence).
+This covers only the 24 names checked in `raw/faculty-status.md` (12 Fit >= 4 professors plus 12 secondary names).
+Of those, all except Giesecke are active at their institutions; none has a posted 2027-28 leave, emeritus status, or "not taking students" note (absence is weak evidence).
+Other names in the phase 5 tracker (Altschuler, Fan, Zhou, Iyengar) were not re-verified on 2026-11-14.
 Minor changes: Wenpin Tang promoted to Associate Professor (Columbia); Sircar no longer ORFE Chair (Ahmadi is); Stellato took two new PhD students in Sept 2026 and gained PACM affiliation; Hoe's group drops to three students after three 2026 graduations [INFERRED - room to recruit].
 New verified work since August (titles verbatim, see `raw/faculty-status.md`): Mastrolia - "Signature Methods for Optimal Market Making" (accepted ICAIF 2026) and two arXiv preprints; Capponi - "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis"; Moallemi - "The Geography of (Concurrent) Block Proposing"; Stellato - "FOMTools: Development and AI-Assisted Code Generation for First-Order Methods"; Feinstein - "Oracle-Parametrized Constant Function Market Makers: From Price Feeds to Pricing Rules" and "Multi-objective Markov Decision Process: Set-valued Bellman's principle and fixed point perspective".
 For Pelger, Leung, Hoe, Florescu and Yang: NO VERIFIED RECENT WORK RETRIEVED on arXiv since August (SSRN not searched).

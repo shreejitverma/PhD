@@ -110,7 +110,7 @@ When Fall 2027 pages publish (late Aug - Oct), re-verify in one pass:
 US items run on 2026-11-14 (results and corrections in `../reverification-2026-11/summary.md`); non-US items left open because scope narrowed to US-only. Key corrections: Princeton ORFE is Dec 21 (not Dec 30); CMU Math has no year on its Dec 20 date; Stanford "opens late Sept" text unchanged, deadline Dec 1, 2026 confirmed.
 
 - [~] Princeton ORFE: deadline + GRE policy + placement page (manual browser - site bot-blocked) - deadline (Dec 21) and GRE done; placement page NOT checked
-- [~] Columbia IEOR: deadline + GRE 2027 policy + stipend (manual browser - site bot-blocked) - deadline and GRE done; department stipend not published (university floor only)
+- [~] Columbia IEOR: deadline + GRE 2027 policy + stipend (manual browser - site bot-blocked) - deadline (Dec 15, PRIOR CYCLE - VERIFY [INFERRED - year not printed beside the date; cycle inferred from same-page 2027 GRE text]) and GRE done; department stipend not published (university floor only)
 - [ ] Cornell ORIE: Jan 5, 2027 confirmed; Stoikov committee-chairing rules
 - [~] MIT ORC: Dec 1, 2026 confirmed; ORC funding model - Dec 1, 11:59 pm ET confirmed, year not printed (PRIOR CYCLE - VERIFY); funding model confirmed (full support); stipend amount UNKNOWN
 - [~] CMU Math: Dec 20, 2026 confirmed; GRE policy - Dec 20 listed with no year (PRIOR CYCLE - VERIFY); GRE done; English test required with no exceptions
