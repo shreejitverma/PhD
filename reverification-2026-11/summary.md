@@ -30,7 +30,7 @@ The Giesecke departure was independently re-fetched from the HPI article during 
 6. **Berkeley IEOR GRE scores must be received and verified by Dec 15**, which takes 5-15 days; send to code 4833 by ~Nov 30 at the latest.
    Faculty naming is an optional SOP prompt, not a required form field.
 7. **UW has no "CFRM" PhD area** - the PhD area is "Mathematical Finance" (Leung, Lorig); a new PhD curriculum applies to entrants from Sept 1, 2026.
-8. **Stevens FE still shows only the Fall 2026 cycle** (Jan 15 priority); GRE or GMAT still required; fee $60; Provost Doctoral Fellowship Mar 1 date confirmed with 2026-27 values.
+8. **Stevens FE still shows only the Fall 2026 cycle** (Jan 15 priority); GRE or GMAT still required; fee $60; Provost Doctoral Fellowship Mar 1 - PRIOR CYCLE - VERIFY [INFERRED - undated recurring date on a page showing 2026-27 values].
    SOP length rules conflict (500-1,000 words general vs "three pages" program page) - ask the program.
 
 ## Corrected deadlines and requirements
@@ -56,7 +56,7 @@ Of those, all except Giesecke are active at their institutions; none has a poste
 Other names in the phase 5 tracker (Altschuler, Fan, Zhou, Iyengar) were not re-verified on 2026-11-14.
 Minor changes: Wenpin Tang promoted to Associate Professor (Columbia); Sircar no longer ORFE Chair (Ahmadi is); Stellato took two new PhD students in Sept 2026 and gained PACM affiliation; Hoe's group drops to three students after three 2026 graduations [INFERRED - room to recruit].
 New verified work since August (titles verbatim, see `raw/faculty-status.md`): Mastrolia - "Signature Methods for Optimal Market Making" (accepted ICAIF 2026) and two arXiv preprints; Capponi - "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis"; Moallemi - "The Geography of (Concurrent) Block Proposing"; Stellato - "FOMTools: Development and AI-Assisted Code Generation for First-Order Methods"; Feinstein - "Oracle-Parametrized Constant Function Market Makers: From Price Feeds to Pricing Rules" and "Multi-objective Markov Decision Process: Set-valued Bellman's principle and fixed point perspective".
-For Pelger, Leung, Hoe, Florescu and Yang: NO VERIFIED RECENT WORK RETRIEVED on arXiv since August (SSRN not searched).
+For Pelger, Golrezaei, Leung, Hoe, Florescu and Yang: NO VERIFIED RECENT WORK RETRIEVED on arXiv since August (SSRN not searched); Golrezaei's latest arXiv paper (2026-08-14) predates the baseline, and she is organizing "Agentic Commerce Commons" at the MIT Media Lab on Dec 4, 2026.
 
 ## Actions by date (from 2026-11-14)
 

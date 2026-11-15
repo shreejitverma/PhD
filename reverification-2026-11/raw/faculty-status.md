@@ -187,4 +187,4 @@ No professor on either list posted an explicit "taking" or "not taking" Fall 202
 - Sabbatical plans for 2027-28 for all 24 names; no retrieved page mentions one, but departments rarely publish them, so absence is weak evidence.
 - Columbia IEOR department faculty list (https://ieor.columbia.edu/faculty returns "We couldn't find that page"); Capponi and Tang were checked through the Columbia Engineering directory instead.
 - MIT Sloan individual directory page for Golrezaei (https://mitsloan.mit.edu/faculty/directory/negin-golrezaei returned 404); checked through her personal page and ORC instead.
-- New work since Aug 2026 for Pelger, Leung, Hoe, Florescu and Yang: none found on arXiv; SSRN and conference proceedings were not searched.
+- New work since Aug 2026 for Pelger, Golrezaei, Leung, Hoe, Florescu and Yang: none found on arXiv (Golrezaei's latest is 2026-08-14, before the baseline); SSRN and conference proceedings were not searched.

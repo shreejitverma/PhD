@@ -10,7 +10,7 @@ Tags: [VERIFIED - url] = read on that page this session; [SEARCH SNIPPET - url] 
 | CMU ECE PhD | Dec 15, 11:59pm ET (early review Dec 1) | Partly - GRE text names Fall 2027; deadline page has no year | Optional for Spring/Fall 2027 | $75, waived only for CMU students/alumni and GEM applicants | 3 | New Dec 1 early-review date; English waiver for US-degree holders confirmed; SOP must be own work, substantial AI use may lead to automatic denial |
 | CMU Math Sciences PhD | Dec 20 (no time zone, no year) | No - no year on page | General GRE not collected; Math Subject recommended, not required | None (no fee) | 3 academic references (minimum) | English test required even with US degree (no exceptions); stipend $3,000/mo x 9 in AY 2026-27 handbook |
 | Princeton ORFE PhD | Dec 21, 2026, 11:59pm Eastern | Yes - "enrollment beginning in fall 2027" | General and Math Subject both optional | $90, fee waivers available | 3 (capped at 3) | Deadline is Dec 21, not Dec 30 (flagged as changed from last year); SOP max 1,000 words; one program per year |
-| Stevens PhD Financial Engineering | Jan 15 (priority) - only Fall 2026 dated | No - PRIOR CYCLE - VERIFY | GRE or GMAT required | $60, no waiver mentioned | 3 | GRE/GMAT still required; Provost Doctoral Fellowship Mar 1 confirmed with 2026-27 values; SOP length conflict (500-1,000 words vs three pages) |
+| Stevens PhD Financial Engineering | Jan 15 (priority) - only Fall 2026 dated | No - PRIOR CYCLE - VERIFY | GRE or GMAT required | $60, no waiver mentioned | 3 | GRE/GMAT still required; Provost Doctoral Fellowship Mar 1 - PRIOR CYCLE - VERIFY [INFERRED - undated recurring date on a page showing 2026-27 values]; SOP length conflict (500-1,000 words vs three pages) |
 
 ## 1. CMU ECE PhD
 
